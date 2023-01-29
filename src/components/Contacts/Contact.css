@@ -1,0 +1,27 @@
+ul li {
+  list-style-type: none;
+}
+
+.unitContact {
+  border: 1px solid rgb(145, 133, 133);
+  margin: 10px;
+  width: 450px;
+  text-align: center;
+  margin-left: 30%;
+  padding: 15px 40px;
+}
+
+.contact-elements > li {
+  border: 1px solid rgb(90, 81, 81);
+  width: 300px;
+}
+
+.fa-times {
+  margin-left: 30px;
+  cursor: pointer;
+  color: red;
+}
+.fa-sort-down {
+  cursor: pointer;
+  margin-left: 5px;
+}

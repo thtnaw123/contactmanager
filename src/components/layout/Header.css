@@ -1,0 +1,19 @@
+.header {
+  background: crimson;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header a {
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.links {
+  margin-top: 10px;
+}
+
+.link {
+  padding: 20px 10px 2px 10px;
+}
